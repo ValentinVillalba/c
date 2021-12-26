@@ -91,13 +91,6 @@ int main() {
   printf("\nBIENVENIDO %s \n",name);
   printf("TENES %d AÑOS \n",age);
 
-  //TEST
-  //TEST
-  //TEST
-  //TEST
-  //TEST
-  //TEST
-  
   //FUNCIONES MATEMATICAS
   double A = sqrt(9); //RAIZ DE 9
   double B = pow(2, 4); //2 A LA 4

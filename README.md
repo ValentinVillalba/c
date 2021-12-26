@@ -1,2 +1,2 @@
 # c
-Learning to use C
+This is a description.

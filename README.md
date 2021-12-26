@@ -1,3 +1,2 @@
-# c
-This is a description.
-The repo will include everything.
+# learning c
+HelloWorld.c has a lot of basic information about c

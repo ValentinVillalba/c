@@ -11,11 +11,11 @@ int main(){
 	printf("CASTING 3.14 A INT: %d\n", (int)3.14);
 	
 	int num = 15;
-	int *pnum = &num;
+	int *pnum = &num; //EL PUNTERO SE DECLARA CON * Y & SIGNIFICA DIRECCION
 	
 	printf("VARIABLE ORIGINAL: %d\n", num);
 	printf("PUNTERO CON DIRECCION: %p\n", pnum);
-	printf("PUNTERO CON DATO: %d\n", *pnum);
+	printf("PUNTERO CON DATO: %d\n", *pnum); //DESREFERENCIAR, OBTENER DATO
 	
 	int num1 = 2;
 	int num2 = 4;
